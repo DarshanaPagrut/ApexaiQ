@@ -10,13 +10,13 @@ Welcome to the **ApexaiQ** repository! This repository contains the tasks and re
 
 ### Week 2 & 3: Python & Web Scraping
 3. **Python Programming** - Learning Python fundamentals, data structures, and scripting for automation.
-4. **Web Scraping with Selenium** - Using Selenium for web scraping, handling dynamic content, and extracting useful data. I scrapped data from two websites. 
+4. **Web Scraping with Selenium** - Using Selenium for web scraping, handling dynamic content, and extracting useful data. I have done web driver setup in my local machine and scrapped data from two websites (Extract Data from tables). 
 5. **Unit Testing with Pytest** - Writing and executing unit tests using Pytest to ensure code reliability and correctness.
 
 ### Week 4: Linux & DevOps
 6. **Basic Linux Commands** - Exploring essential Linux commands for system navigation and administration.
 7. **DevOps & DevSecOps** - Understanding the concepts of DevOps, CI/CD pipelines, and security integration in DevOps practices.
-8. **Docker & Kubernetes** - Learning about containerization with Docker and orchestration using Kubernetes.
+8. **Docker & Kubernetes** - Learning about containerization with Docker and orchestration using Kubernetes. I have done docker execution by installing WSL 2 on my windows device (Deployed one miniproject on docker - Initialize docker in the application, add dockerfile and build and run application). I have also installed docker desktop. 
 
 ## 🛠 Technologies Used
 - **Programming Language**: Python
