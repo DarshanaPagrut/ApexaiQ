@@ -22,6 +22,6 @@ Welcome to the **ApexaiQ** repository! This repository contains the tasks and re
 - **Programming Language**: Python
 - **Web Scraping**: Selenium
 - **Testing**: Pytest
-- **Operating System**: Linux
+- **Operating System**: Windows with WSL 2 installed
 - **DevOps Tools**: Docker, Kubernetes
 
